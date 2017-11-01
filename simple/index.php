@@ -1,4 +1,4 @@
-<?
+<?php
 
 echo "simple PHP app"
 
