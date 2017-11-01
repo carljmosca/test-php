@@ -1,6 +1,6 @@
 <?php
 
-echo "simple PHP app"
+echo "simple PHP app";
 
 phpinfo();
 ?>
